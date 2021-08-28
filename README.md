@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Photography and Drone stuff.
 - 🌱 I’m currently learning Web Development with help from the Developer Akademie
 - 💞️ I’m looking to collaborate on Web Projects
-- 📫 How to reach me: E-Mail: info@harttung-fotografie.de
+- 📫 How to reach me: E-Mail: info@bastian-harttung.de
 
 <!---
 BastianHarttung/BastianHarttung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
